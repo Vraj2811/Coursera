@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "Vraj Shah Blogs"
+  navbar:
+    left:
+      - href: https://vraj2811.github.io/
+        text: Home
+    right:
+      - icon: github
+        href: https://github.com/Vraj2811
+
+format:
+  html:
+    theme: cyborg
+    # css: dark-mode.css
+    toc: true
