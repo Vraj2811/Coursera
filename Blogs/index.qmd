@@ -1,0 +1,6 @@
+---
+listing:
+  contents: blogs
+  sort: "date asc"
+page-layout: full
+---
